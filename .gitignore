@@ -1,2 +1,5 @@
 /target
 /.mvn/wrapper/*.jar
+.github
+.idea
+*.iml
