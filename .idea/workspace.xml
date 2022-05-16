@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25401dc1-e2a1-4acf-9283-391a521c902a" name="Changes" comment="" />
+    <list default="true" id="25401dc1-e2a1-4acf-9283-391a521c902a" name="Changes" comment="EmagGatling">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,14 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,8 +108,17 @@
       <workItem from="1652637648942" duration="459000" />
       <workItem from="1652638566392" duration="928000" />
       <workItem from="1652640019514" duration="995000" />
-      <workItem from="1652649436822" duration="318000" />
+      <workItem from="1652649436822" duration="666000" />
+      <workItem from="1652715871699" duration="818000" />
     </task>
+    <task id="LOCAL-00001" summary="EmagGatling">
+      <created>1652650036996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652650036996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EmagGatling" />
+    <option name="LAST_COMMIT_MESSAGE" value="EmagGatling" />
   </component>
 </project>
